@@ -16,19 +16,19 @@ This project implements an interpreter for a simplified version of Pascal. It su
 
 ## Test Cases
 
-1. `hello.pas` – Basic 'Hello World' program  
-2. `areas.pas` – Computes the area of a rectangle  
-3. `bad_prog.pas` – Tests for 'identifier not declared' error  
-4. `if_convert.pas` – Uses if and else statements to convert Fahrenheit to Celsius  
-5. `multiples.pas` – Uses a while loop to compute multiples from 1 to 12  
-6. `lotsovar.pas` – Tests for 'identifier declared twice' error  
-7. `bmi_calc.pas` – Computes BMI from weight and height  
-8. `mult_table.pas` – Creates a multiplication table for the number provided  
-9. `input_test.pas` – Tests for integers and counts the number of digits  
-10. `threedim.pas` – Gives the coordinates for a cube with the provided dimensions  
-11. `divisors.pas` – Computes the divisors of the provided number  
-12. `not_sample.pas` – Tests the NOT operator  
-13. `factorial.pas` – Computes the factorial of the provided number  
+1. `1-hello.pas` – Basic 'Hello World' program  
+2. `2-areas.pas` – Computes the area of a rectangle  
+3. `3-bad_prog.pas` – Tests for 'identifier not declared' error  
+4. `4-if_convert.pas` – Uses if and else statements to convert Fahrenheit to Celsius  
+5. `5-multiples.pas` – Uses a while loop to compute multiples from 1 to 12  
+6. `6-lotsovar.pas` – Tests for 'identifier declared twice' error  
+7. `7-bmi_calc.pas` – Computes BMI from weight and height  
+8. `8-mult_table.pas` – Creates a multiplication table for the number provided  
+9. `9-input_test.pas` – Tests for integers and counts the number of digits  
+10. `10-threedim.pas` – Gives the coordinates for a cube with the provided dimensions  
+11. `11-divisors.pas` – Computes the divisors of the provided number  
+12. `12-not_sample.pas` – Tests the NOT operator  
+13. `13-factorial.pas` – Computes the factorial of the provided number  
 
 ## How to Build
 
